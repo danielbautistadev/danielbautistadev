@@ -1,11 +1,13 @@
 # ¡Hola!, BIENVENIDOS 👋
-¡Bienvenido/a a mi perfil de GitHub! Soy Daniel, un apasionado desarrollador de software especializado en el Stack MEAN (MongoDB, Express.js, Angular, Node.js). Me encanta construir aplicaciones web escalables y robustas utilizando estas tecnologías.
+¡Bienvenido/a a mi perfil de GitHub! Mi nombre es Daniel, un apasionado desarrollador de software especializado en el Stack MEAN (MongoDB, Express.js, Angular, Node.js). Me encanta construir aplicaciones web escalables y robustas utilizando estas tecnologías.
 
+<!--
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/10/18/5fa3db4507053.jpeg">
  <source media="(prefers-color-scheme: light)" srcset="https://www.hogarmania.com/archivos/202311/razas-de-gatos-blancos-1280x720x80xX.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://www.lavanguardia.com/files/article_gallery_microformat/uploads/2021/12/09/61b225405acd9.jpeg">
 </picture>
+-->
 
 ## Acerca de mí
 Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y móviles utilizando el Stack MEAN. Me especializo en la creación de API RESTful con Node.js y Express.js, la construcción de interfaces de usuario dinámicas con Angular, y el diseño de bases de datos NoSQL con MongoDB.
